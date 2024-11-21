@@ -1,1 +1,19 @@
-
+// estilo de la tabla  y cuerpo
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    }
+    table{
+    width: 70%;
+    border-collapse: collapse;
+    margin:10px 0;
+    
+    }
+    th,td{
+    border: 1px solid;
+    padding: 8px;
+    }
+    th{
+    background-color: gray;
+    
+    }
